@@ -14,7 +14,9 @@ Analyzing customer transaction at Starbucks to recommend and predict offers to e
 
 Starbucks offers rewards programs for customers on its mobile app. Concerted efforts in providing marketing and promotional offers to subscribers allows them to engage existing subscribers and provide a platform to attract potential customers.
 
-Based on transactions with customers in the past, Starbucks can help analyze the data and serve potential customers with offer recommendations. Predictive modeling can help us predict which section of customers can be more likely to complete offers
+Based on transactions with customers in the past, we can help analyze this data and serve potential customers with offer recommendations. Predictive modeling can help us predict which section of customers can be more likely to complete offers.
+
+Our task will be to combine transaction, demographic and offer data to determine which demographic groups respond best to which offer type
 
 ## Project Tasks
 
@@ -79,6 +81,11 @@ Folder structure:
 
 ## Results
 
+Based on our analysis of the model factors like the minimum required spend needed to complete an offer, reward value , if the offer has been viewed or not are the most important factors which affect the process of offer completion
+
+Other factors like income and gender are further down in the list of important measures that add to this result set.
+
+The main findings of the code can be found at a post available [here](https://medium.com/@karan.ambasht89/5-things-you-should-know-for-your-next-trip-to-seattle-d6f93a43eea3).
 
 ## Licensing, Authors, Acknowledgements
 Credits to [Starbucks](https://www.starbucks.com/) for the dataset
