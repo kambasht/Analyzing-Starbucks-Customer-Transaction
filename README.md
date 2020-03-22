@@ -88,7 +88,7 @@ Based on our analysis of the model factors like the minimum required spend neede
 
 Other factors like income and gender are further down in the list of important measures that add to this result set.
 
-The main findings of the code can be found at a post available [here](https://medium.com/@karan.ambasht89/5-things-you-should-know-for-your-next-trip-to-seattle-d6f93a43eea3).
+The main findings of the code can be found at a post available [here](https://medium.com/@karan.ambasht89/analyzing-starbucks-transactions-and-offer-recommendations-932acc90af00).
 
 ## Licensing, Authors, Acknowledgements
 Credits to [Starbucks](https://www.starbucks.com/) for the dataset
